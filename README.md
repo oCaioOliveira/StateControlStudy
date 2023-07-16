@@ -1,6 +1,6 @@
 # Objective
 
-This project have a pourpose to study profoundly state control in angular and in future in flutter.
+This project have a pourpose to study profoundly state control in angular and flutter.
 
 ## NgrxTraining
 
